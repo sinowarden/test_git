@@ -18,5 +18,5 @@ if __name__ == '__main__':
     print("git push test")
     print("git push test new")
     print("git push test next")
-    print("git push test main")
+    print("git push test another")
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
