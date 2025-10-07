@@ -16,4 +16,5 @@ if __name__ == '__main__':
     print("git commit -m test")
     print("git push")
     print("git push test")
+    print("git push test new")
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
