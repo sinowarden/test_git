@@ -14,4 +14,5 @@ if __name__ == '__main__':
     print_hi('PyCharm')
     print("git add order test")
     print("git commit -m test")
+    print("git push")
 # 访问 https://www.jetbrains.com/help/pycharm/ 获取 PyCharm 帮助
